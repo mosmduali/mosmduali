@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <br><br>
-  <img src ="https://komarev.com/ghpvc/?username=mosmduali&label=Profile%20views&color=0e75b6&style=flat" alt="mosmduali" height="100"/>
+  <img src ="https://komarev.com/ghpvc/?username=mosmduali&label=Profile%20views&color=0e75b6&style=flat" alt="mosmduali" height="50"/>
 </div>
 
 ###
