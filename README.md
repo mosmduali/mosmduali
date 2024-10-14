@@ -1,7 +1,5 @@
-<div> 
-<h1 align="center">Hi 👋, I'm Osman Dualı</h1>
-
-
+<div align="center"> 
+<h1>Hi 👋, I'm Osman Dualı</h1>
 <img src="https://i.gifer.com/6sHG.gif" height="150">
 </div>
 
