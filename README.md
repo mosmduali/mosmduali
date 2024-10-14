@@ -21,9 +21,9 @@
 <h3 align="center">🛠 Language and tools</h3>
 
 ###
-
-<img align="center" height="280" src="https://i.gifer.com/XYFP.gif"/>
-
+<div align="center">
+<img  height="280" src="https://i.gifer.com/XYFP.gif"/>
+</div>
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
