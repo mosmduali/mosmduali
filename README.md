@@ -36,10 +36,11 @@
 
 
 
-<img align="right" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
+
 ###
 <br>
 <div align="right">
+  <img align="right" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"  />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
