@@ -21,7 +21,7 @@
 <h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
-<img  height="150" src="https://i.gifer.com/XYFP.gif"/>
+<img  height="200" src="https://i.gifer.com/XYFP.gif"/>
 </div>
 
 <br>
@@ -42,6 +42,4 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
