@@ -18,13 +18,13 @@
 </div>
 
 ###
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<img align="right" height="280" src="https://i.gifer.com/XYFP.gif"/>
+<img align="center" height="280" src="https://i.gifer.com/XYFP.gif"/>
 
-<div align="left">
+<div align="center">
   
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
