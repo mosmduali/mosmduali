@@ -16,7 +16,7 @@
   <br><br>
   <img src ="https://komarev.com/ghpvc/?username=mosmduali&label=Profile%20views&color=0e75b6&style=flat" alt="mosmduali" height="25"/>
 </div>
-/**
+<!–
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -26,7 +26,7 @@
 <p align="left">Hello!</p>
 
 ###
-**/
+–>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
