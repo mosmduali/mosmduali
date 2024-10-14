@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Dualı</h1>
 
 
-<img src="https://i.gifer.com/6sHG.gif">
+<img src="https://i.gifer.com/6sHG.gif" height="40">
 
 
 <div align="center">
