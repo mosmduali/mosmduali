@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-<img src ="https://komarev.com/ghpvc/?username=mosmduali&label=Profile%20views&color=0e75b6&style=flat" alt="mosmduali" />
+
   <a href="https://www.linkedin.com/in/mosmduali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -21,6 +21,7 @@
   <a href="https://x.com/MOsmanDuali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <img src ="https://komarev.com/ghpvc/?username=mosmduali&label=Profile%20views&color=0e75b6&style=flat" alt="mosmduali" />
 </div>
 
 ###
